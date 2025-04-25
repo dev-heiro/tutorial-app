@@ -61,6 +61,13 @@
   font-weight: bold;
   border-left: 4px solid #f59e0b;
 }
+.ranking-list .default {
+  font-weight: bold;
+  border-left: 4px solid #85827f;
+}
+.ranking-list li {
+  margin-bottom: 4px;
+}
 
 .retry-btn {
   padding: 12px 24px;
